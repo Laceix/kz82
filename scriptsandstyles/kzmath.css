@@ -1,20 +1,20 @@
 /*head*/
 html {
-  background-color: magenta;
+  background-color: #292826;
 }
 h1 {
+  border: solid, 3px, black;
   text-align: center;
-  background-color: aqua;
+  background-color: #55f007;
   border-radius: 100px;
-  border-width: 100px;
-  color: magenta;
+  color: #000000;
 }
 h2 {
+  border: solid, 3px, black;
   text-align: center;
-  background-color: aqua;
+  background-color: #55f007;
   border-radius: 100px;
-  border-width: 100px;
-  color: magenta;
+  color: #000000;
 }
 /*head*/
 /*image*/
@@ -25,21 +25,14 @@ h2 {
   width: 250px;
   border-radius: 150px;
 }
-#img1:hover {
-  margin: auto;
-  display: block;
-  height: 300px;
-  width: 300px;
-  border-radius: 150px;
-}
 /*image*/
 /*buttons*/
 .arithButtons {
   text-align: center;
   font-size: 35px;
   border-color: black;
-  background-color: aqua;
-  color: magenta;
+  background-color: #55f007;
+  color: #000000;
   border-radius: 200px;
   text-align: center;
   display: block;
@@ -49,8 +42,8 @@ h2 {
   text-align: center;
   font-size: 35px;
   border-color: black;
-  background-color: magenta;
-  color: aqua;
+  background-color: #292826;
+  color: #55f007;
   border-radius: 200px;
   text-align: center;
   display: block;
@@ -59,12 +52,12 @@ h2 {
 /*buttons*/
 /*awnser status*/
 #p1 {
-  border: thick;
+  border: solid, 3px, black;
   text-align: center;
   font-size: 35px;
   border-color: black;
-  background-color: aqua;
-  color: magenta;
+  background-color: #55f007;
+  color: #000000;
   border-radius: 200px;
   text-align: center;
   display: block;
